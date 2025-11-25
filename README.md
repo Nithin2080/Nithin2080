@@ -1,4 +1,4 @@
-# 💫 Nithin B — Bioinformatics & ML Enthusiast
+# 💫 Nithin Bharath R — Bioinformatics & ML Enthusiast
 
 Hey, I'm Nithin — a bioinformatician who loves mixing **genomics**, **ML**, and a questionable amount of caffeine.  
 I work on stuff like **phage–host prediction**, **codon usage bias**, and building pipelines that somehow break and then magically work again.
@@ -47,14 +47,14 @@ K-mer frequency extraction + dimensionality reduction + clustering visualization
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Nithin2080&show_icons=true&theme=radical)
+[Stats](https://github-readme-stats.vercel.app/api?username=Nithin2080&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin2080&layout=compact&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin2080&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let’s Connect
-**LinkedIn:** *add your link here*  
+**LinkedIn:** linkedin.com/in/nithin-bharath-r-bb2122340  
 **Email:** nithinbhrth2002@gmail.com  
 
 ---
