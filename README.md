@@ -54,7 +54,7 @@ K-mer frequency extraction + dimensionality reduction + clustering visualization
 ---
 
 ## 🤝 Let’s Connect
-**LinkedIn:** linkedin.com/in/nithin-bharath-r-bb2122340  
+**LinkedIn:** https://linkedin.com/in/nithin-bharath-r-bb2122340  
 **Email:** nithinbhrth2002@gmail.com  
 
 ---
